@@ -6,6 +6,7 @@ main {
 .container {
   box-shadow: 6px 6px 6px gray;
   position: relative;
+  text-align: center;
 }
 
 .support-table {
